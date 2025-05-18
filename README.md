@@ -1,5 +1,7 @@
 # FocusFlow-Landing 
 
+
+
   <h1>Unlock Deep Focus — Stay in Flow, Crush Distractions</h1>
   <p>The all-in-one focus app for remote workers, students, and creators who want to get more done — distraction-free.</p>
 
